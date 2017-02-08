@@ -1,0 +1,7 @@
+Relevant Inputs: arr
+Functions to count: array accesses/equalities
+Model: n
+
+Best: 1
+Worst: n
+Average: n/2
