@@ -1,0 +1,10 @@
+1. (I think)
+Stack            Heap
+-----            ----
+-- main()
+c [ ]---------> Counter 
+            |    value [ 0 ]  
+-- doWork   |                  
+c [ ]-------| 
+
+2. 2
