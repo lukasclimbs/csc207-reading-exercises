@@ -1,0 +1,2 @@
+ret contains the largest number in the array from arr[0] to arr[n], where n
+is the count of how far we have traversed the array so far.
